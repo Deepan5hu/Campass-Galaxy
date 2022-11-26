@@ -1,0 +1,117 @@
+.det {
+    display: inline-block;
+    width: 75%;
+    font-size: 20px;
+}
+
+.blackbox {
+    position: sticky;
+    width: 20%;
+    background-color: black;
+    float: right;
+    padding: 20px;
+}
+
+.head {
+    font-size: 24px;
+    font-weight: 400;
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    line-height: 1.1;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.bigp {
+    font-size: 24px;
+    line-height: 1;
+    font-weight: bold;
+    margin-bottom: 5px;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    opacity: 1;
+}
+
+.smallp {
+    opacity: 1;
+    display: inline-block;
+    max-width: 80px;
+    line-height: 1.2;
+    text-align: left;
+    padding-left: 5px;
+    font-size: 12px !important;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    font-weight: bold;
+}
+.inr {
+    font-size: 30px;
+    color: white;
+    opacity: 1;
+}
+.quick_info{
+    line-height: 1.3;
+    margin: 29px;
+    padding: 54px;
+}
+.label{
+    font-weight: bold;
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    position: relative;
+    top: -29px;
+    left: 0px;
+}
+.detail{
+    position: relative;
+    top: -30px;
+    left: 54px;
+    font-family: 'Raleway',sans-serif;
+    font-size: 14px;
+    color: black;
+}
+.difficulty{
+    display: inline-block;
+    position: relative;
+    top:-38px;
+    left: 13px;
+}
+.Duration{
+    display: inline-block;
+    position: relative;
+    top:-38px;
+    left: 65px;
+}
+.Maximum_Altitude{
+    display: inline-block;
+    position: relative;
+    top: -38px;
+    left: 119px;
+}
+.Pickup_Point{
+    display: inline-block;
+    position: relative;
+    top: -38px;
+    left: 152px;
+}
+.Base-Camp{
+    display: inline-block;
+    position: relative;
+    top: 53px;
+    left: -602px;
+}
+.Minimum_Age{
+    display: inline-block;
+    position: relative;
+    top: 66px;
+    left: -549px;
+}
+.Bttv{
+    display: inline-block;
+    position: relative;
+    top: 67px;
+    left: -521px;
+}

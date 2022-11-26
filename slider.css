@@ -1,0 +1,48 @@
+.container1{
+    height: 300px;
+    width: 900px;
+    background-color: grey;
+    overflow: hidden;
+    margin: auto;
+    box-shadow: 10px 13px 10px grey;
+}
+.slide1{
+    height: 300px;
+    width: 1500px;
+    background-color: green;
+    animation: slider infinite 20s 2s;
+}
+.imagecon{
+    height: 300px;
+    width: 300px;
+    background-color: grey;
+    float: left;
+    background-size: cover;
+}
+@keyframes slider 
+{
+  12.5%{
+      margin-left: -300px;
+  }
+  25%{
+      margin-left: -300px;
+  }
+  37.5%{
+      margin-left: -600px;
+  }
+  50%{
+      margin-left: -600px;
+  }
+  62.5%{
+      margin-left: -900px;
+  }
+  75%{
+      margin-left: -900px;
+  }
+  87.5%{
+      margin-left: -1200px;
+  }
+  100%{
+      margin-left: -1200px;
+  }
+}
